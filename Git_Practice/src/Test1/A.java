@@ -1,6 +1,6 @@
 package Test1;
 
-public class A {
+class A {
     private int data = 40;
 
     private void msg(){
